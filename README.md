@@ -13,12 +13,8 @@ Base étudiée : [ASHRAE Global Thermal Comfort Database II](https://github.com/
 
 ---
 
-## Questions de travail
-
-1. **Complétude des données en climat tropical** - recensement des études, disponibilité des variables :
-   Tdb + RH / + Tg/Tr / + V (vitesse d'air) / + clo / + métabolisme, type de bâtiment. Analyse critique des études concernées.
-2. **Conditions similaires hors climat tropical** - critères de sélection argumentés, sélection selon les mêmes paliers, discussion de la pertinence.
-
+## Travail à Faire :
+- 
 ---
 
 ## Organisation du dépôt
