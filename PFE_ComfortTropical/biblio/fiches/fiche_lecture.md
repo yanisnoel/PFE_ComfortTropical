@@ -1,5 +1,5 @@
 # NN - Building_ID: [?, ... ,?] - "contributor":?? 
-**Année:?? - Titre:** \
+**Année:?? - Titre:** 
 
 ## Revue :
 Auteurs : \
@@ -33,7 +33,11 @@ Nombre de bâtiments : \
 Genre : F / H \
 Types de ventilation : 
 
-Nombre de votes : 
+Nombre de votes : \
+Nombre de sujets / de votes :
+
+
+### Variables disponibles : 
 
 Température de l'air dans la zone occupée "ta" : \
 Humidité relative "rh" : \
@@ -45,6 +49,26 @@ Taux métabolique "met" : \
 Activité : \
 Fonction du bâtiment : 
 
+-------------------------------------------------------------------
+## Comparaison 
+| Variable | Dans la publi | Dans la base ASHRAE |
+|---|---|---|
+| Ta | | |
+| T_out | | |
+| RH| | |
+| RH_out | | |
+| Tg | | |
+| Vel | | |
+| ... | | |
+
+## Écarts publi/base
+-
+
+## Résultats clés
+-
+
+## Limites / regard critique
+-
 ```
 <!-- Coller ici la sortie du notebook : % de remplissage par variable -->
 ```
