@@ -1,7 +1,7 @@
 # 010 - Building_ID: [66, ... ,80] - "contributor": Richard de Dear
 **Année: ?? - Titre:** 
 
-> ⚠ PAS ACCES
+> PAS ACCES
 
 ## Revue :
 Auteurs : \
