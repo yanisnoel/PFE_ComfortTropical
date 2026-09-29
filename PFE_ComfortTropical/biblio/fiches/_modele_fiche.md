@@ -20,7 +20,7 @@
 ## Variables disponibles (paliers)
 | Palier | Variable | Dans la publi | Dans la base ASHRAE |
 |---|---|---|---|
-| 1 | Tdb, RH | 10° | 12° |
+| 1 | Tdb, RH | | |
 | 2 | Tg / Tr | | |
 | 3 | V (vitesse d'air) | | |
 | 4 | clo | | |
