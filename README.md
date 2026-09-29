@@ -12,13 +12,17 @@ Base étudiée : [ASHRAE Global Thermal Comfort Database II](https://github.com/
 | **Calendrier** | 28 août 2026 - soutenance février 2027 |
 
 ---
+## Répartition des lectures (études tropicales 1-20)
+Tout les fiches/pdf dans biblio 
 
-## Travail à Faire :
-- 
+| Qui | Études |
+|---|---|
+| Cassy | 1 à 6 |
+| Lanja | 7 à 12 |
+| Yanis | 13 à 20 |
+
 ---
-
 ## Organisation du dépôt
-
 ```
 ComfortTropiques/
 ├── notebooks/          Notebooks Jupyter, numérotés dans l'ordre de la démarche
@@ -31,25 +35,5 @@ ComfortTropiques/
 ```
 
 ---
-
-## Démarrage
-
-```bash
-git clone https://github.com/<compte>/ComfortTropiques.git
-cd ComfortTropiques
-pip install -r requirements.txt
-jupyter lab
-```
-
-Les notebooks lisent la base ASHRAE directement depuis le dépôt GitHub du CBE : aucune donnée à télécharger à la main.
-
----
-
-## Répartition des lectures (études tropicales 1-20)
-Tout les fiches/pdf dans biblio 
-
-| Qui | Études |
-|---|---|
-| Cassy | 1 à 6 |
-| Lanja | 7 à 12 |
-| Yanis | 13 à 20 |
+## Travail à Faire :
+- 
