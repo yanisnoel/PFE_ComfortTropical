@@ -80,4 +80,4 @@ Les notebooks lisent la base ASHRAE directement depuis le dépôt GitHub du CBE 
 
 Földváry Ličina V. et al. (2018). *Development of the ASHRAE Global Thermal Comfort Database II.* Building and Environment, 142, 502-512. https://doi.org/10.1016/j.buildenv.2018.06.022
 
-Hello
+
