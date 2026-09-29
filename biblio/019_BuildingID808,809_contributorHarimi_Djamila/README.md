@@ -1,7 +1,7 @@
 # 019 - Building_ID: [808,809] - "contributor": Harimi Djamila
 **Année: ?? - Titre:** 
 
-> ⚠ PAS DE SOURCE et PAS DE VEL
+> PAS DE SOURCE et PAS DE VEL
 
 ## Revue :
 Auteurs : \
