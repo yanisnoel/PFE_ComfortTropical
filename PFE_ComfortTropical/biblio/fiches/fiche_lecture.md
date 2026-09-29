@@ -1,9 +1,5 @@
----
-name: Fiche de lecture
-about: Revue d'une étude + comparaison avec les données de la base ASHRAE
-title: "Texte NN : "
-labels: fiche de lecture
----
+**Lecteur :** · **Date :** · **Clé Zotero :**
+**study_id / building_id ASHRAE :**
 
 # Texte NN : [DOI](https://doi.org/...)
 
@@ -22,6 +18,27 @@ Types de ventilation : \
 Nombre de votes : 
 
 <!-- Coller ici la capture du tableau des conditions environnementales de l'article -->
+
+**Lecteur :** · **Date :** · **Clé Zotero :**
+**study_id / building_id ASHRAE :**
+
+## Contexte
+- Pays / ville :
+- Climat (Köppen) :
+- Saison(s) de mesure :
+- Type de bâtiment :
+- Mode de conditionnement : NV / MM / AC / ventilateurs de plafond :
+
+## Protocole
+- Nombre de sujets / de votes :
+- Type d'étude : transversale / longitudinale
+- Instruments (et précision annoncée) :
+- Hauteur(s) de mesure :
+- Échelles de vote : TSV / TPV / confort / acceptabilité / préférence mouvement d'air :
+
+
+
+
 
 ---
 
