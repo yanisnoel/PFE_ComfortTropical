@@ -1,20 +1,20 @@
 # NN - Building_ID: [?, ... ,?] - "contributor":?? 
-**Année:?? - Titre:** 
+**Année:2014 - Titre:*Adaptive model of thermal comfort for offices in hot and humid climates of India* 
 
 ## Revue :
-Auteurs : \
-Pays : \
-Villes : \
+Auteurs : Madhavi Indraganti, Ryozo Ooka, Hom B. Rijal, Gail S. Brager\
+Pays : India\
+Villes : Chennai, Hyderabad\
 Climat (Köppen) : \
-Saison étudiée : \
-Type de bâtiment : \
+Saison étudiée : Hiver, été, SWM, NEM\
+Type de bâtiment : Office\
 Nombre de bâtiments : \
 Genre : F / H \
-Types de ventilation : \
-Étude de la vitesse d'air ? : 
+Types de ventilation : NV, AC, clim.éteinte\
+Étude de la vitesse d'air ? : OK
 
-Nombre de votes : \
-Nombre de sujets / de votes :
+Nombre de votes : 6048\
+Nombre de sujets / de votes : 2787 prs
 
 <!-- Coller ici la capture du tableau de l'article si dispo -->
 
@@ -24,14 +24,14 @@ Nombre de sujets / de votes :
 
 ## Data base :
 
-Villes : \
+Villes : Chennai, Hyderabad\
 Années des données : \
-Climat : \
+Climat : Tropical wet savanna, hot semi-arid\
 Saison étudiée : \
-Type de bâtiment : \
-Nombre de bâtiments : \
+Type de bâtiment : Office\
+Nombre de bâtiments : 10\
 Genre : F / H \
-Types de ventilation : 
+Types de ventilation : AC, MM, NV
 
 Nombre de votes : \
 Nombre de sujets / de votes :
@@ -39,13 +39,13 @@ Nombre de sujets / de votes :
 
 ### Variables disponibles : 
 
-Température de l'air dans la zone occupée "ta" : \
-Humidité relative "rh" : \
-Température de globe "tg" : \
+Température de l'air dans la zone occupée "ta" : OK\
+Humidité relative "rh" : OK\
+Température de globe "tg" : OK\
 Température radiante "tr" : \
-Vitesse d'air "vel" : \
-Isolation vestimentaire intrinsèque "clo" : \
-Taux métabolique "met" : \
+Vitesse d'air "vel" : OK\
+Isolation vestimentaire intrinsèque "clo" : OK\
+Taux métabolique "met" : OK\
 Activité : \
 Fonction du bâtiment : 
 
