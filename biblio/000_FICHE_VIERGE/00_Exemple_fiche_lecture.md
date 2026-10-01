@@ -1,5 +1,5 @@
-# NN - Building_ID: [?, ... ,?] - "contributor":?? 
-**Année:2014 - Titre:*Adaptive model of thermal comfort for offices in hot and humid climates of India* 
+# NN - Building_ID: [653, ... ,656] - "contributor":?? 
+**Année: 2014 - Titre: *Adaptive model of thermal comfort for offices in hot and humid climates of India* 
 
 ## Revue :
 Auteurs : Madhavi Indraganti, Ryozo Ooka, Hom B. Rijal, Gail S. Brager\
@@ -9,7 +9,7 @@ Climat (Köppen) : \
 Saison étudiée : Hiver, été, SWM, NEM\
 Type de bâtiment : Office\
 Nombre de bâtiments : \
-Genre : F / H \
+Genre : F / H  \
 Types de ventilation : NV, AC, clim.éteinte\
 Étude de la vitesse d'air ? : OK
 
@@ -26,28 +26,28 @@ Nombre de sujets / de votes : 2787 prs
 
 Villes : Chennai, Hyderabad\
 Années des données : \
-Climat : Tropical wet savanna, hot semi-arid\
-Saison étudiée : \
+Climat : Tropical wet savanna, (hot semi-arid)\
+Saison étudiée : cool/dry; hot/wet\
 Type de bâtiment : Office\
 Nombre de bâtiments : 10\
-Genre : F / H \
+Genre : F / H  870;2037\
 Types de ventilation : AC, MM, NV
 
-Nombre de votes : \
+Nombre de votes : (2907)\
 Nombre de sujets / de votes :
 
 
 ### Variables disponibles : 
 
-Température de l'air dans la zone occupée "ta" : OK\
-Humidité relative "rh" : OK\
-Température de globe "tg" : OK\
+Température de l'air dans la zone occupée "ta" : 100\
+Humidité relative "rh" : 100%\
+Température de globe "tg" : \
 Température radiante "tr" : \
-Vitesse d'air "vel" : OK\
-Isolation vestimentaire intrinsèque "clo" : OK\
-Taux métabolique "met" : OK\
+Vitesse d'air "vel" : 100\
+Isolation vestimentaire intrinsèque "clo" : 100\
+Taux métabolique "met" : 100\
 Activité : \
-Fonction du bâtiment : 
+Fonction du bâtiment : Office
 
 -------------------------------------------------------------------
 ## Comparaison 
@@ -73,7 +73,7 @@ Fonction du bâtiment :
 <!-- Coller ici la sortie du notebook : % de remplissage par variable -->
 ```
 ********************************************************************************************************************************************************************************************************
-# NN - Building_ID: [?, ... ,?] - "contributor":?? 
+# NN - Building_ID: [591;592] - "contributor":?? 
 **Année:2010 - Titre:*Air movement acceptability limits and thermal comfort in Brazil's hot humid climate zone* 
 
 ## Revue :
@@ -102,25 +102,25 @@ Nombre de sujets / de votes :
 Villes : Maceio\
 Années des données : \
 Climat : Tropical monsoon\
-Saison étudiée : \
+Saison étudiée : Winter\
 Type de bâtiment : Salles de classe\
 Nombre de bâtiments : 10\
-Genre : F / H \
+Genre : F / H  1485;589\
 Types de ventilation : NV
 
-Nombre de votes : 2075\
+Nombre de votes : 2075 (2074)\
 Nombre de sujets / de votes :
 
 
 ### Variables disponibles : 
 
-Température de l'air dans la zone occupée "ta" : \
-Humidité relative "rh" : \
+Température de l'air dans la zone occupée "ta" : 100\
+Humidité relative "rh" : 100\
 Température de globe "tg" : \
-Température radiante "tr" : \
-Vitesse d'air "vel" : \
-Isolation vestimentaire intrinsèque "clo" : \
-Taux métabolique "met" : \
+Température radiante "tr" : 100\
+Vitesse d'air "vel" : 100\
+Isolation vestimentaire intrinsèque "clo" : 100\
+Taux métabolique "met" : 100\
 Activité : \
 Fonction du bâtiment : 
 
@@ -154,7 +154,7 @@ Fonction du bâtiment :
 ## Revue :
 Auteurs : Alison G.Kwok\
 Pays : USA\
-Villes : Hawai\
+Villes : Hawai \
 Climat (Köppen) : \
 Saison étudiée : \
 Type de bâtiment : Salle de classe\
@@ -176,10 +176,10 @@ Nombre de sujets / de votes :
 Villes : Honolulu\
 Années des données : \
 Climat : Tropical savanna\
-Saison étudiée : \
+Saison étudiée : Winter;Summer\
 Type de bâtiment : Office\
 Nombre de bâtiments : 12\
-Genre : F / H \
+Genre : F / H 1809;1735\
 Types de ventilation : NV, AC
 
 Nombre de votes : 3544\
@@ -188,13 +188,13 @@ Nombre de sujets / de votes :
 
 ### Variables disponibles : 
 
-Température de l'air dans la zone occupée "ta" : \
-Humidité relative "rh" : \
+Température de l'air dans la zone occupée "ta" : 100\
+Humidité relative "rh" : 100\
 Température de globe "tg" : \
 Température radiante "tr" : \
 Vitesse d'air "vel" : \
-Isolation vestimentaire intrinsèque "clo" : \
-Taux métabolique "met" : \
+Isolation vestimentaire intrinsèque "clo" : 100\
+Taux métabolique "met" : 100\
 Activité : \
 Fonction du bâtiment : 
 
