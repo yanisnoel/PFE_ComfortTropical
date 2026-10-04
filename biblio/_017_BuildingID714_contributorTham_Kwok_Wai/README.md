@@ -3,13 +3,13 @@
 *(Indoor Air, 13, p. 315–331 — https://doi.org/10.1111/j.1600-0668.2003.00191.x)*
 
 ## Conclusion
-Article et données ne correspondent pas : 426 questionnaires dans l'article contre 216 votes dans la base, sur un seul building_id alors que l'étude porte sur 5 bâtiments. Les moyennes de la base ne correspondent à aucun bâtiment du Tableau 2 → impossible de relier les données à un bâtiment précis de l'article.
+Article et données ne correspondent pas : 426 questionnaires dans l'article contre 216 votes dans la base, sur un seul building_id alors que l'étude porte sur 5 bâtiments. Les moyennes de la base ne correspondent à aucun bâtiment du Tableau 2 = impossible de relier les données à un bâtiment précis de l'article.
 
 ## Revue :
 Auteurs : S. C. Sekhar, K. W. Tham, K. W. Cheong (2003) \
 Pays : Singapour \
 Villes : Singapour \
-Climat (Köppen) : « hot and humid climate » → Af \
+Climat (Köppen) : « hot and humid climate » = Af \
 Saison étudiée : non précisée (faible variation saisonnière à Singapour) \
 Type de bâtiment : bâtiment A institutionnel / bâtiments B, C, D et E = tours de bureaux du Central Business District \
 Nombre de bâtiments : 5 (22 configurations de mesure, 120 points de mesure) \
@@ -19,9 +19,8 @@ Types de ventilation : climatisation centrale uniquement (centrales de traitemen
 Fenêtre, ventilateur… : aucun (ni fenêtres ouvertes, ni ventilateurs de plafond, ni ventilation naturelle)
 
 Nombre de votes : 426 questionnaires \
-Nombre de sujets / de votes : 426 (1 questionnaire par personne). ⚠️ Questionnaire qualité de l'air / syndrome du bâtiment malsain (SBS) adapté de l'EC-Audit, pas de vote de sensation ASHRAE en 7 points
+Nombre de sujets / de votes : 426 (1 questionnaire par personne). Questionnaire qualité de l'air / syndrome du bâtiment malsain (SBS) adapté de l'EC-Audit, pas de vote de sensation ASHRAE en 7 points
 
-<!-- Capture du tableau de l'article -->
 <img width="592" height="223" alt="image" src="https://github.com/user-attachments/assets/a7809541-60a8-4c89-8bed-fbe94facc99b" />
 
 --------------------------------------------------------------------------
@@ -94,5 +93,4 @@ Fonction du bâtiment : office
 - Base incomplète (216/426) et rattachement aux bâtiments impossible → à utiliser avec prudence.
 
 ```
-<!-- Coller ici la sortie du notebook : % de remplissage par variable -->
 ```
