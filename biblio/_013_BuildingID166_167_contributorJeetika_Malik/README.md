@@ -16,8 +16,7 @@ Types de ventilation : NV \
 Nombre de votes : 705 (monsoon 277 ; winter 253 ; summer 175) \
 Nombre de sujets / de votes : ?
 
-<!-- Coller ici la capture du Table 6 : Seasonal averages of outdoor and indoor environmental data -->
-
+<img width="985" height="335" alt="image" src="https://github.com/user-attachments/assets/02364e26-0751-44ce-9f49-2ad60b00c09f" />
 --------------------------------------------------------------------------
 
 ## Data base :
@@ -74,6 +73,12 @@ Fonction du bâtiment : ok, multifamily housing (logement)
 ## Limites / regard critique
 - Vitesse d'air < 0,1 m/s non mesurable ou pas fiable (sonde à hélice)
 - Une seule vitesse d'air, pas de détail par hauteur (vel_l/m/h vides)
-```
-<!-- Coller ici la sortie du notebook : % de remplissage par variable -->
-```
+  
+<img width="410" height="640" alt="image" src="https://github.com/user-attachments/assets/6648e231-cba9-4413-acd3-48e6925f8ce1" />
+
+
+<img width="418" height="457" alt="image" src="https://github.com/user-attachments/assets/e3d8b49f-9b8c-4ecb-ba2e-970ef32d3afa" />
+
+clo max a 1,52 mais données 13 valeurs au dessus ? chercher pourquoi ?
+
+<img width="242" height="115" alt="image" src="https://github.com/user-attachments/assets/414edb80-634d-4093-b0a5-49677f2877d1" />
