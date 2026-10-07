@@ -91,6 +91,8 @@ Fonction du bâtiment : OK
 - Pas de timestamp ni de subject_id → impossible de reconstituer les 206 personnes et leurs 2 votes.
 - Les écarts de votes et de genre rendent ces données peu fiables : à utiliser avec prudence ou à écarter.
 
-```
-<!-- Coller ici la sortie du notebook : % de remplissage par variable -->
+<img width="315" height="370" alt="image" src="https://github.com/user-attachments/assets/6f43b290-8125-434a-bb66-3a88869a8b10" />
+<img width="258" height="801" alt="image" src="https://github.com/user-attachments/assets/7ce83a36-fa43-4314-8d0e-f599743b5ae7" />
+<img width="280" height="304" alt="image" src="https://github.com/user-attachments/assets/36834715-5dbf-4bde-be26-a3b92fbc3a5e" />
+
 ```
