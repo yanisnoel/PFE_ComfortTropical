@@ -4,7 +4,7 @@
 ## Revue :
 Auteurs : Sanyogita Manu, Yash Shukla, Rajan Rawal, Leena E. Thomas, Richard de Dear\
 Pays : India\
-Villes : Ahmedabad, Bangalore, Chennai, Dehli, Shimla\
+Villes : Ahmedabad, Bangalore, Chennai, Delhi, Shimla\
 Climat (Köppen) : \
 Saison étudiée : Eté, hiver, mousson\
 Type de bâtiment : Bureaux\
