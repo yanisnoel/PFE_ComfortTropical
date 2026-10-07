@@ -7,16 +7,16 @@ L'étude de Kwok (1998) porte sur 6 salles de classe situées à Hawaï (Honolul
 Auteurs : Alison G. Kwok\
 Pays : USA\
 Villes :  Hawai\
-Climat (Köppen) : \
+Climat (Köppen) : non précisé\
 Saison étudiée : Ete, hiver\
 Type de bâtiment : Salles de classe\
-Nombre de bâtiments : 6\
+Nombre de bâtiments : 6 écoles, 29 classes\
 Genre : F / H 1809;1735\
 Types de ventilation : NV, AC\
 Étude de la vitesse d'air ? : OK
 
 Nombre de votes : 3544\
-Nombre de sujets / de votes : 
+Nombre de sujets / de votes : 3492 élèves + 52 enseignants\
 <!-- Coller ici la capture du tableau de l'article si dispo -->
 
 
@@ -35,7 +35,7 @@ Genre : F / H 1809;1735\
 Types de ventilation : NV, AC\
 
 Nombre de votes : 3544\
-Nombre de sujets / de votes : \
+Nombre de sujets / de votes : non renseigné\
 
 
 ### Variables disponibles : 
@@ -54,12 +54,12 @@ Fonction du bâtiment :
 ## Comparaison 
 | Variable | Dans la publi | Dans la base ASHRAE |
 |---|---|---|
-| Ta | | |
-| T_out | | |
-| RH| | |
-| RH_out | | |
-| Tg | | |
-| Vel | | |
+| Ta | Oui |100% |
+| T_out |Oui |100% |
+| RH|Oui | 100%|
+| RH_out | Oui| 100%|
+| Tg |Oui |0% |
+| Vel |Oui |0% |
 | ... | | |
 
 ## Écarts publi/base
