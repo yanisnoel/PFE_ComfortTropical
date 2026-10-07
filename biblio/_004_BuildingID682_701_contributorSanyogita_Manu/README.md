@@ -24,11 +24,11 @@ Nombre de sujets / de votes :
 
 ## Data base :
 
-Villes : \
-Années des données : \
+Villes : India\
+Années des données : 2012-2013\
 Climat : \
-Saison étudiée : \
-Type de bâtiment : \
+Saison étudiée : Tropical wet savanna\
+Type de bâtiment : Office\
 Nombre de bâtiments : \
 Genre : F / H \
 Types de ventilation : 
