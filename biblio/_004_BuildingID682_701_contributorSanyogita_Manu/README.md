@@ -2,18 +2,18 @@
 **Année: 2016 - Titre:** Field studies of thermal comfort across multiple climate zones for the subcontinent India Model for
 
 ## Revue :
-Auteurs : \
-Pays : \
-Villes : \
+Auteurs : Sanyogita Manu, Yash Shukla, Rajan Rawal, Leena E. Thomas, Richard de Dear\
+Pays : India\
+Villes : Ahmedabad, Bangalore, Chennai, Dehli, Shimla\
 Climat (Köppen) : \
-Saison étudiée : \
-Type de bâtiment : \
-Nombre de bâtiments : \
-Genre : F / H \
-Types de ventilation : \
-Étude de la vitesse d'air ? : 
+Saison étudiée : Eté, hiver, mousson\
+Type de bâtiment : Bureaux\
+Nombre de bâtiments : 16\
+Genre : F / H 1977,4353\
+Types de ventilation : NV, MM, AC\
+Étude de la vitesse d'air ? : OK
 
-Nombre de votes : \
+Nombre de votes : 6330\
 Nombre de sujets / de votes :
 
 <!-- Coller ici la capture du tableau de l'article si dispo -->
@@ -26,8 +26,8 @@ Nombre de sujets / de votes :
 
 Villes : Bangalore, Chennai\
 Années des données : 2012-2013\
-Climat : \
-Saison étudiée : Tropical wet savanna\
+Climat : Tropical wet savanna\
+Saison étudiée : Summer, cool/dry, winter, hot/wet\
 Type de bâtiment : Office\
 Nombre de bâtiments : 8\
 Genre : F / H 907;1122\
@@ -44,8 +44,8 @@ Humidité relative "rh" : 100\
 Température de globe "tg" : 0\
 Température radiante "tr" : 0\
 Vitesse d'air "vel" : 100\
-Isolation vestimentaire intrinsèque "clo" : \
-Taux métabolique "met" : \
+Isolation vestimentaire intrinsèque "clo" : 100\
+Taux métabolique "met" : 100\
 Activité : \
 Fonction du bâtiment : 
 
