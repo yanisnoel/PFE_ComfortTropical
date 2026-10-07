@@ -1,5 +1,7 @@
 # 001 - Building_ID: [154, ... ,165] - "contributor": Alison Kwok
 **Année: 1998 - Titre:*Thermal Comfort in Tropical Classrooms * 
+## Conclusion : 
+L'étude de Kwok (1998) porte sur 6 salles de classe situées à Hawaï (Honolulu), étudiées en été et en hiver, avec des bâtiments naturellement ventilés ou climatisés. En revanche, dans la base de données ASHRAE II, ces données sont réparties en 12 bâtiments classés comme bureaux. Les informations sur le genre, les saisons et les types de ventilation sont cohérentes entre l'article et la base, mais le nombre de bâtiments et leur type diffèrent, ce qui montre que la structure de la base ne reprend pas toujours exactement l'organisation décrite dans la publication originale.
 
 ## Revue :
 Auteurs : Alison G. Kwok\
