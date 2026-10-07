@@ -24,26 +24,26 @@ Nombre de sujets / de votes :
 
 ## Data base :
 
-Villes : India\
+Villes : Bangalore, Chennai\
 Années des données : 2012-2013\
 Climat : \
 Saison étudiée : Tropical wet savanna\
 Type de bâtiment : Office\
-Nombre de bâtiments : \
-Genre : F / H \
-Types de ventilation : 
+Nombre de bâtiments : 8\
+Genre : F / H 907;1122\
+Types de ventilation : AC, NV
 
-Nombre de votes : \
+Nombre de votes : 2029\
 Nombre de sujets / de votes :
 
 
 ### Variables disponibles : 
 
-Température de l'air dans la zone occupée "ta" : \
-Humidité relative "rh" : \
-Température de globe "tg" : \
-Température radiante "tr" : \
-Vitesse d'air "vel" : \
+Température de l'air dans la zone occupée "ta" : 100\
+Humidité relative "rh" : 100\
+Température de globe "tg" : 0\
+Température radiante "tr" : 0\
+Vitesse d'air "vel" : 100\
 Isolation vestimentaire intrinsèque "clo" : \
 Taux métabolique "met" : \
 Activité : \
