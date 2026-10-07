@@ -1,19 +1,19 @@
 # 001 - Building_ID: [154, ... ,165] - "contributor": Alison Kwok
-**Année:1998 - Titre:*Thermal comfort in tropical classrooms* 
+**Année: - Titre:*  * 
 
 ## Revue :
-Auteurs : Alison G.Kwok\
-Pays : USA\
-Villes : Hawai \
+Auteurs : \
+Pays : \
+Villes :  \
 Climat (Köppen) : \
 Saison étudiée : \
-Type de bâtiment : Salle de classe\
-Nombre de bâtiments : 6\
+Type de bâtiment : \
+Nombre de bâtiments : \
 Genre : F / H \
-Types de ventilation : NV, AC\
-Étude de la vitesse d'air ? : OK
+Types de ventilation : \
+Étude de la vitesse d'air ? : 
 
-Nombre de votes : 3544\
+Nombre de votes : \
 Nombre de sujets / de votes : 
 <!-- Coller ici la capture du tableau de l'article si dispo -->
 
@@ -23,28 +23,28 @@ Nombre de sujets / de votes :
 
 ## Data base :
 
-Villes : Honolulu\
+Villes : \
 Années des données : \
-Climat : Tropical savanna\
-Saison étudiée : Winter;Summer\
-Type de bâtiment : Office\
-Nombre de bâtiments : 12\
-Genre : F / H 1809;1735\
-Types de ventilation : NV, AC
+Climat : \
+Saison étudiée : \
+Type de bâtiment : \
+Nombre de bâtiments : \
+Genre : F / H \
+Types de ventilation : \
 
-Nombre de votes : 3544\
-Nombre de sujets / de votes :
+Nombre de votes : \
+Nombre de sujets / de votes : \
 
 
 ### Variables disponibles : 
 
-Température de l'air dans la zone occupée "ta" : 100\
-Humidité relative "rh" : 100\
+Température de l'air dans la zone occupée "ta" : \
+Humidité relative "rh" : \
 Température de globe "tg" : \
 Température radiante "tr" : \
 Vitesse d'air "vel" : \
-Isolation vestimentaire intrinsèque "clo" : 100\
-Taux métabolique "met" : 100\
+Isolation vestimentaire intrinsèque "clo" : \
+Taux métabolique "met" : \
 Activité : \
 Fonction du bâtiment : 
 
