@@ -63,8 +63,11 @@ Fonction du bâtiment :
 | ... | | |
 
 ## Écarts publi/base
--
-
+- Nombre de bâtiments : l'article décrit 6 écoles et 29 classes (19 NV + 9 AC dans le tableau 1) ; la base compte 12 building_id (154 à 165).
+- Type de bâtiment : salles de classe dans l'article, office dans la base.
+- Dates : l'article situe l'enquête en sept.-oct. 1996 et janv. 1997 ; la base va de sept. 1995 à févr. 1996 (décalage d'un an).
+- Vitesse d'air : mesurée dans l'article (moyenne 0,36 / 0,33 m/s en NV, 0,15 m/s en AC) mais vel est vide (0 %) dans la base.
+- Concordant : 3544 votes, 1809 F / 1735 H, saisons hot 1755 / cool 1789, ventilation NV 2181 / AC 1363.
 ## Résultats clés
 -
 
