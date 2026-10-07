@@ -1,20 +1,20 @@
 # 003 - Building_ID: [591,592] - "contributor": Christhina Candido
-**Année: 2010 - Titre:** Air movement acceptability limits and thermal comfort in Brazil's hot humid climate zone
+**Année:2010 - Titre:*Air movement acceptability limits and thermal comfort in Brazil's hot humid climate zone* 
 
 ## Revue :
-Auteurs : \
-Pays : \
-Villes : \
+Auteurs : C.Cândido, R.J.de Dear, R.Lamberts, L.Bittencourt\
+Pays : Brazil\
+Villes : Maceio\
 Climat (Köppen) : \
 Saison étudiée : \
-Type de bâtiment : \
-Nombre de bâtiments : \
+Type de bâtiment : Salles de classe\
+Nombre de bâtiments : 2\
 Genre : F / H \
-Types de ventilation : \
-Étude de la vitesse d'air ? : 
+Types de ventilation : NV\
+Étude de la vitesse d'air ? : OK
 
-Nombre de votes : \
-Nombre de sujets / de votes :
+Nombre de votes : 2075\
+Nombre de sujets / de votes : 
 
 <!-- Coller ici la capture du tableau de l'article si dispo -->
 
@@ -24,28 +24,28 @@ Nombre de sujets / de votes :
 
 ## Data base :
 
-Villes : \
+Villes : Maceio\
 Années des données : \
-Climat : \
-Saison étudiée : \
-Type de bâtiment : \
-Nombre de bâtiments : \
-Genre : F / H \
-Types de ventilation : 
+Climat : Tropical monsoon\
+Saison étudiée : Winter\
+Type de bâtiment : Salles de classe\
+Nombre de bâtiments : 10\
+Genre : F / H  1485;589\
+Types de ventilation : NV
 
-Nombre de votes : \
+Nombre de votes : 2075 (2074)\
 Nombre de sujets / de votes :
 
 
 ### Variables disponibles : 
 
-Température de l'air dans la zone occupée "ta" : \
-Humidité relative "rh" : \
+Température de l'air dans la zone occupée "ta" : 100\
+Humidité relative "rh" : 100\
 Température de globe "tg" : \
-Température radiante "tr" : \
-Vitesse d'air "vel" : \
-Isolation vestimentaire intrinsèque "clo" : \
-Taux métabolique "met" : \
+Température radiante "tr" : 100\
+Vitesse d'air "vel" : 100\
+Isolation vestimentaire intrinsèque "clo" : 100\
+Taux métabolique "met" : 100\
 Activité : \
 Fonction du bâtiment : 
 
