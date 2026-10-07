@@ -8,7 +8,7 @@ Villes : Chennai, Hyderabad\
 Climat (Köppen) : \
 Saison étudiée : Hiver, été, SWM, NEM\
 Type de bâtiment : Office\
-Nombre de bâtiments : \
+Nombre de bâtiments : 28\
 Genre : F / H  \
 Types de ventilation : NV, AC, clim.éteinte\
 Étude de la vitesse d'air ? : OK
