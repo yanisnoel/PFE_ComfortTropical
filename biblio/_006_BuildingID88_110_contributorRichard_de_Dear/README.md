@@ -3,6 +3,9 @@
 
 > PDF : (PDF) Field experiments on occupant comfort and office thermal environment in a hot-humid climate.pdf
 
+## Conclusion :
+La base ASHRAE reprend globalement les données de l'étude de De Dear & Fountain (1994), mais avec quelques différences de périmètre. Le nombre de bâtiments passe de 12 dans l'article à 23 Building_ID dans la base, probablement en raison d'un découpage plus fin des bâtiments ou des campagnes de mesure. Le nombre de votes est très proche (1234 dans l'article contre 1231 dans la base). En revanche, le nombre de sujets n'est pas directement comparable : l'article indique 836 occupants, tandis que la base ne contient que 158 identifiants de sujets uniques, ce qui suggère un mode d'identification différent dans la base ASHRAE. Enfin, la température de globe (tg), pourtant mesurée dans l'article, n'est pas renseignée dans la base, alors que les autres variables principales (température de l'air, humidité, vitesse d'air, température radiante, isolation vestimentaire et métabolisme) sont disponibles.
+
 ## Revue :
 Auteurs : Richard J. de Dear, Marc E. Fountain\
 Pays : Australie\
