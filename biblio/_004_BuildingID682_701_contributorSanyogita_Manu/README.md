@@ -1,6 +1,9 @@
 # 004 - Building_ID: [682, ... ,701] - "contributor": Sanyogita Manu
 **Année: 2016 - Titre:** Field studies of thermal comfort across multiple climate zones for the subcontinent India Model for
 
+## Conclusion :
+La publication regroupe 16 bâtiments répartis dans 5 villes indiennes (Ahmedabad, Bangalore, Chennai, Delhi et Shimla), pour un total de 6330 votes. Après application du filtre sur les climats tropicaux, la base ASHRAE II ne conserve que les bâtiments de Bangalore et Chennai, soit 8 bâtiments et 2029 votes. Les principales différences entre la publication et la base sont donc liées au filtrage climatique. Des écarts apparaissent également dans les saisons étudiées (3 dans l'article contre 4 libellés dans la base) ainsi que dans les variables disponibles, notamment tg et tr, absentes de la base alors qu'elles sont utilisées dans la publication.
+
 ## Revue :
 Auteurs : Sanyogita Manu, Yash Shukla, Rajan Rawal, Leena E. Thomas, Richard de Dear\
 Pays : India\
@@ -62,7 +65,7 @@ Fonction du bâtiment :
 | ... | | |
 
 ## Écarts publi/base
-- Périmètre : l'article annonce 16 bâtiments, 5 villes, 6330 réponses ; la base contient 20 building_id (682 à 701) pour ces 6330 votes. Avec le filtre tropical wet savanna, il reste 8 bâtiments (686 à 693), Bangalore + Chennai, 2029 votes.
+- Périmètre : l'article annonce 16 bâtiments, 5 villes, 6330 réponses ; la base contient 20 building_id (682 à 701) pour ces 6330 votes. Avec le filtre tropical wet savanna, il reste 8 bâtiments (686 à 693), Bangalore + Chennai, 2029 votes. 
 - Variables : la température radiante est calculée à partir de mesures de globe dans l'article, mais tg et tr sont vides dans la base.
 - Saisons : 3 dans l'article (été, hiver, mousson) ; la base mélange 4 libellés selon la ville (summer, winter, cool/dry, hot/wet).
 
