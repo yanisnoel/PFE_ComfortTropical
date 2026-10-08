@@ -1,5 +1,5 @@
 # 006 - Building_ID: [88, ... , 110] - "contributor": Richard de Dear
-**Année: 1994 - Titre:*Field experiments on occupant comfort and office thermal environments in a hot-humid climate* 
+**Année: 1994 - Titre: *Field experiments on occupant comfort and office thermal environments in a hot-humid climate* 
 
 > PDF : (PDF) Field experiments on occupant comfort and office thermal environment in a hot-humid climate.pdf
 
