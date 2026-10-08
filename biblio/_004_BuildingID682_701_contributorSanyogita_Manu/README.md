@@ -5,7 +5,7 @@
 Auteurs : Sanyogita Manu, Yash Shukla, Rajan Rawal, Leena E. Thomas, Richard de Dear\
 Pays : India\
 Villes : Ahmedabad, Bangalore, Chennai, Delhi, Shimla\
-Climat (Köppen) : \
+Climat (Köppen) : non renseigné\
 Saison étudiée : Eté, hiver, mousson\
 Type de bâtiment : Bureaux\
 Nombre de bâtiments : 16\
@@ -53,16 +53,18 @@ Fonction du bâtiment :
 ## Comparaison 
 | Variable | Dans la publi | Dans la base ASHRAE |
 |---|---|---|
-| Ta | | |
-| T_out | | |
-| RH| | |
-| RH_out | | |
-| Tg | | |
-| Vel | | |
+| Ta |Oui |100% |
+| T_out |Oui |t_out 72,3%; t_out_isd 43,3%; t_out_monthly 100% |
+| RH|Oui |100% |
+| RH_out |Oui |0% |
+| Tg |Oui |0% |
+| Vel |Oui |100% |
 | ... | | |
 
 ## Écarts publi/base
--
+- Périmètre : l'article annonce 16 bâtiments, 5 villes, 6330 réponses ; la base contient 20 building_id (682 à 701) pour ces 6330 votes. Avec le filtre tropical wet savanna, il reste 8 bâtiments (686 à 693), Bangalore + Chennai, 2029 votes.
+- Variables : la température radiante est calculée à partir de mesures de globe dans l'article, mais tg et tr sont vides dans la base.
+- Saisons : 3 dans l'article (été, hiver, mousson) ; la base mélange 4 libellés selon la ville (summer, winter, cool/dry, hot/wet).
 
 ## Résultats clés
 -
