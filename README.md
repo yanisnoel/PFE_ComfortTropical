@@ -33,7 +33,4 @@ ComfortTropiques/
 ├── docs/
 │   └── reunions/       Comptes rendus des points avec les tuteurs (modèle : _modele_cr.md)
 ```
-
----
-## Travail à Faire :
-- 
+DRIVE : https://drive.google.com/drive/folders/1ggqOd3cyOo_eRahHooYQmtushzdQbpOz?usp=drive_link
